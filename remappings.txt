@@ -1,0 +1,4 @@
+forge-std/=lib/forge-std/src/
+contracts/OmronDeposit.sol/=src/OmronDeposit.sol/
+contracts/interfaces/=src/interfaces/
+@openzeppelin/=lib/@openzeppelin/
